@@ -1,11 +1,11 @@
-### Salut, moi c'est [Zeleph](https://discord.gg/33BjAhAc8N) 👋
-<img src="https://readme-typing-svg.herokuapp.com?color=5BCDEC&center=true&size=22&lines=heyy;Je+suis+Zeleph+!+💀;🌊+Regarde+One+Piece+!+🏴‍☠️;les+ramens+sont+trop+bon+!+🍜"/>
+### Salut, moi c'est [Akira](https://discord.gg/33BjAhAc8N) 👋
+<img src="https://readme-typing-svg.herokuapp.com?color=5BCDEC&center=true&size=22&lines=heyy;Je+suis+Akira+!+💀;🌊+Regarde+One+Piece+!+🏴‍☠️;les+ramens+sont+trop+bon+!+🍜"/>
 
 [![Contact](https://img.shields.io/discord/736923536475684974?label=Join%20Server&logo=discord&style=flat-square)](https://discord.gg/33BjAhAc8N)
 [![Discord](https://img.shields.io/static/v1?label=Sans%230006&color=purple&logo=discord&logoColor=white&message=Contact)](https://discord.gg/33BjAhAc8N)
 
 - 😄 Sexe: Masculin
-- 📫 Comment me contacter? [Clique ici!](https://discord.gg/33BjAhAc8N)
+- 📫 Comment me contacter? [Clique ici!](https://discord.gg/67gASMHzn6)
 
 ---
 
@@ -16,7 +16,7 @@
 
 ### Contacte moi : 
 
-<a href="https://discord.gg/33BjAhAc8N">
+<a href="https://discord.gg/67gASMHzn6">
   <img align="left" alt="Discord" width="23px" src="assets/discord.svg" />
 </a>
 <a href="https://twitter.com/002_sans">
@@ -45,6 +45,6 @@
 
 ### Autres :
 
-  <a href="https://paypal.me/karmalebest"><img alt="PayPal" height="32" width="32" src="assets/paypal.svg"></a>
+  <a href="https://paypal.me/002akira"><img alt="PayPal" height="32" width="32" src="assets/paypal.svg"></a>
     <a href="https://open.spotify.com/user/52uz7wqec14uj0u2ldtxjzxcz"><img alt="Spotify" height="32" width="32" src="assets/spotify.svg"></a>
   <a href="https://twitch.tv/002_sans"><img alt="Twitch" height="32" width="32" src="assets/twitch.svg"></a>
