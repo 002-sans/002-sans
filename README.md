@@ -11,7 +11,7 @@
 
 ### Discord Status
 <a href="https://discord.gg/lebloc">
-<img height="80px" src=" https://discord.c99.nl/widget/theme-2/1005922696909037679.png" />
+<img height="80px" src="https://discord.c99.nl/widget/theme-2/1005922696909037679.png" />
 </a>
 
 ### Contacte moi : 
