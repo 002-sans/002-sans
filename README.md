@@ -1,22 +1,22 @@
-### Salut, moi c'est [Akira](https://discord.gg/33BjAhAc8N) 👋
+### Salut, moi c'est [Sans](https://discord.gg/lebloc) 👋
 <img src="https://readme-typing-svg.herokuapp.com?color=5BCDEC&center=true&size=22&lines=heyy;Je+suis+Sans+!+💀;🌊+Regarde+One+Piece+!+🏴‍☠️;les+ramens+sont+trop+bon+!+🍜"/>
 
-[![Contact](https://img.shields.io/discord/736923536475684974?label=Join%20Server&logo=discord&style=flat-square)](https://discord.gg/33BjAhAc8N)
-[![Discord](https://img.shields.io/static/v1?label=Sans%230006&color=purple&logo=discord&logoColor=white&message=Contact)](https://discord.gg/33BjAhAc8N)
+[![Contact](https://img.shields.io/discord/736923536475684974?label=Join%20Server&logo=discord&style=flat-square)](https://discord.gg/lebloc)
+[![Discord](https://img.shields.io/static/v1?label=Sans%230006&color=purple&logo=discord&logoColor=white&message=Contact)](https://discord.gg/lebloc)
 
 - 😄 Sexe: Masculin
-- 📫 Comment me contacter? [Clique ici!](https://discord.gg/67gASMHzn6)
+- 📫 Comment me contacter? [Clique ici!](https://discord.gg/lebloc)
 
 ---
 
 ### Discord Status
-<a href="https://discord.com/users/934171553267056750">
-<img height="80px" src="https://discord.c99.nl/widget/theme-2/729449748494549071.png" />
+<a href="https://discord.gg/lebloc">
+<img height="80px" src=" https://discord.c99.nl/widget/theme-2/1005922696909037679.png" />
 </a>
 
 ### Contacte moi : 
 
-<a href="https://discord.gg/67gASMHzn6">
+<a href="https://discord.gg/lebloc">
   <img align="left" alt="Discord" width="23px" src="assets/discord.svg" />
 </a>
 <a href="https://twitter.com/002_sans">
