@@ -2,7 +2,7 @@
 
 ---
 
-<img src='https://lanyard.cnrad.dev/api/1036382279779491841' align="right">
+<img src='https://lanyard.cnrad.dev/api/733266850313404476' align="right">
 
 
 ### Contacte moi : 
