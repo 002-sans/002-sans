@@ -30,8 +30,8 @@
   Futur bot pour gérer son serveur
 
 ## Discord
-<a href="https://discord.com/users/1079073906641612921"  align="left">
-    <img src="https://lanyard.cnrad.dev/api/1079073906641612921">
+<a href="https://discord.com/users/843204602686078976"  align="left">
+    <img src="https://lanyard.cnrad.dev/api/843204602686078976">
   </a>
 
 ## Mes stats:
