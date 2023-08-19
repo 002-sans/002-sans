@@ -20,14 +20,8 @@
 <br/>
 <br/>
 
-- 📗 [***Naoki Gestion Fix***](https://github.com/002-sans/Naoki-Bot-Perso) <br/>
-  Un bot fait trouvé sur github totalement fix
-- 📘 [***Artix Fix***](https://github.com/002-sans/Funny-Artix) <br/>
-  Un bot anti raid sans bugs trouvés
-- 📙 [***Crowbot-Remade-Fix***](https://github.com/002-sans/CrowBot-Remade-v14) <br/>
-  Ce bot est encore en cours...
-- 📒 [***Gestion V14***](https://discord.gg/xCWThDdVdB) <br/>
-  Futur bot pour gérer son serveur
+- 📗 [***ND Protect (Remade) en cours...***]() <br/>
+  Ce bot dédié à l'anti raid peut vous être utile.
 
 ## Discord
 <a href="https://discord.com/users/843204602686078976"  align="left">
