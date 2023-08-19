@@ -8,7 +8,7 @@
   
 - 🕷️・Je suis Sans
   
-- 🎶・J'ai 3x ans
+- 🎶・J'ai 16 ans
   
 - 💣・Développe en JavaScript
   
