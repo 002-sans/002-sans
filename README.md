@@ -11,12 +11,5 @@
 ---
 
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=let+i+%3D+0;%3Clet+IQ+%3D+0;%3Clet+brain+%3D+false;" alt="Typing SVG" /></a>
-    <br>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=while(i+%3C+42 * 10)%7B;while(IQ+%3C+Infinity)%7B;while+(!brain)+%7B" alt="Typing SVG" /></a>
-    <br>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=i%2B%2B;IQ%2B%2B;console.log(%22Chargement+cerveau%22);" alt="Typing SVG" /></a>
-    <br>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=console.log('IQ Non Atteint');console.log(%22QI+non+atteint%22);setTimeout(()+%3D%3E+brain+%3D+true%2C+4200);" alt="Typing SVG" /></a><br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%7D" alt="Typing SVG" />
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&multiline=true&width=435&height=153&separator=%3E&lines=let+caffeine+%3D+0;%3Ewhile+(caffeine+%3C+42)+%7B%3E++caffeine%2B%2B;%3E++console.log(%22Encore+un+caf%C3%A9...%22);%3E%7D%3Econsole.log(%22Productivit%C3%A9+%C3%A0+120%25%22);" alt="Typing SVG" /></a>
 </p>
