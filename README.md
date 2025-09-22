@@ -4,10 +4,6 @@
 ---
 - 💻 Tous mes projets sont [ici](https://github.com/002-sans?tab=repositories)
 - 💬 Développeur JavaScript
-- 🛠️ Membre de l’équipe [Stealy](https://discord.gg/stealy)
-- 🚧 Actuellement sur **Crowbot Remade** & **HEX PROJECT**
-- 📚 J'apprends le **langage C**
-- 📫 Contacte-moi sur [Discord](https://discord.gg/stealy)
 ---
 
 <p align="center">
