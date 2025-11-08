@@ -11,7 +11,7 @@
 
 - ⚡・Fun fact **J'ai appris a dev grace a plusieurs personnes en 2019**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contactez moi sur:</h3>
 <p align="left">
 <a href="https://instagram.com/002.sans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="002.sans" height="30" width="40" /></a>
 <a href="https://discord.gg/prevnames-1294586125234737232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="prevnames-1294586125234737232" height="30" width="40" /></a>
